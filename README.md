@@ -7,5 +7,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarkkokarki&" alt="jarkkokarki" /></p>
 </div>
 
-  ![](https://github.com/JarkkoKarki/JarkkoKarki/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/JarkkoKarki/JarkkoKarki/blob/output/github-snake-dark.svg)
 
