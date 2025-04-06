@@ -6,6 +6,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarkkokarki&show_icons=true&locale=en&layout=compact" alt="jarkkokarki" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarkkokarki&" alt="jarkkokarki" /></p>
 </div>
-
+<div>
   ![snake gif](https://github.com/JarkkoKarki/JarkkoKarki/blob/output/github-snake-dark.svg)
 
+</div>
