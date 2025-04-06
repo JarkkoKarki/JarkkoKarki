@@ -1,6 +1,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jarkkokarki&show_icons=true&locale=en" alt="jarkkokarki" /></p>
 <br>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/JarkkoKarki/JarkkoKarki/blob/output/github-snake-dark.svg)
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarkkokarki" alt="jarkkokarki" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarkkokarki&show_icons=true&locale=en&layout=compact" alt="jarkkokarki" /></p>
