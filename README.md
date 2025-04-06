@@ -32,7 +32,7 @@
 ![snake gif](https://github.com/JarkkoKarki/JarkkoKarki/blob/output/github-snake-dark.svg)
 
 <div align="center" margin="0" display="block" >
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/JarkkoKarki/github-profile-trophy">
     <img width="900" src="https://github-profile-trophy.vercel.app/?username=jarkkokarki&column=10&theme=radical&no-frame=true" alt="Trophy" />
 </div>
 
