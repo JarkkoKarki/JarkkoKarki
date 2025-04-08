@@ -4,7 +4,7 @@
 </h1>
 <div align="center" margin-top="50px">
   <p><img src="https://github-readme-stats.vercel.app/api?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en" alt="jarkkokarki" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarkkokarki&theme=blue-green&" alt="jarkkokarki" /></p>
+  <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JarkkoKarki&theme=blue-green&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="jarkkokarki" /></p>
 </div>
 
