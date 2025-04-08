@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=👨‍💻👨‍💻👨‍💻;" />
 </h1>
 <div align="center" margin-top="50px">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en" alt="jarkkokarki" /></p>
-  <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JarkkoKarki&theme=blue-green&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="jarkkokarki" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en" alt="Streak" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarkkokarki&theme=blue-green&" alt="Streak"/></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="Streak" /></p>
 </div>
 
 <div align="center" margin="0">
