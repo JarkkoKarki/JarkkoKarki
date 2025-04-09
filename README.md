@@ -27,7 +27,7 @@
 
 <div align="center" margin="0" display="block" >
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JarkkoKarki)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JarkkoKarki&theme=algolia&title=-Stars,-Issues,-Reviews)](https://github.com/JarkkoKarki/github-profile-trophy)
 
 </div>
 
