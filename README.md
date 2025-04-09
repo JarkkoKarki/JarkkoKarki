@@ -26,8 +26,6 @@
 ![snake gif](https://github.com/JarkkoKarki/JarkkoKarki/blob/output/github-snake-dark.svg)
 
 <div align="center" margin="0" display="block" >
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=JarkkoKarki&theme=algolia&title=-Stars,-Issues,-Reviews)](https://github.com/JarkkoKarki/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JarkkoKarki)](https://git.io/streak-stats)
 
