@@ -4,7 +4,6 @@
 </h1>
 <div align="center" margin-top="50px">
   <p><img src="https://github-readme-stats.vercel.app/api?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en" alt="Streak" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarkkokarki&theme=blue-green&" alt="Streak"/></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="Streak" /></p>
 </div>
 
@@ -29,6 +28,8 @@
 <div align="center" margin="0" display="block" >
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=JarkkoKarki&theme=algolia&title=-Stars,-Issues,-Reviews)](https://github.com/JarkkoKarki/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JarkkoKarki)](https://git.io/streak-stats)
 
 </div>
 
