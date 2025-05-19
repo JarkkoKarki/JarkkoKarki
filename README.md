@@ -6,8 +6,9 @@
     <p><img src="https://github-readme-stats.vercel.app/api?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en" alt="Stats" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="Languages" /></p>
 </div>
-
 <div align="center" margin="0">
+  <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jarkkokarki&theme=blue-green&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a></p>
+
   <p>
   <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
