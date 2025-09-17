@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=👨‍💻👨‍💻👨‍💻;" />
 </h1>
 <div align="center" margin-top="50px">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en" alt="Stats" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarkkokarki&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="Languages" /></p>
 </div>
 <div align="center" margin="0">
